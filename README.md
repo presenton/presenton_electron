@@ -1,3 +1,5 @@
+> ⚠️ **DEPRECATED**: This repository is no longer maintained. Please use [Presenton](https://github.com/presenton/presenton) instead.
+
 <p align="center">
   <img src="readme_assets/images/presenton-logo.png" height="90" alt="Presenton Logo" />
 </p>
